@@ -25,7 +25,7 @@ SECRET_KEY = '!8dwqq20^o4f97^5%+xqpr0nv1j+i6bgluv^y2)2s^-87^ux#*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Firuza>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'firuza.pythonanywhere.com']
 
 
 # Application definition
